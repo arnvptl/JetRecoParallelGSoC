@@ -1,8 +1,9 @@
 # Parallel Processing Improvements in Julia Jet Reconstruction
 ## GSoC 2026 Evaluation Exercise — Submission
 
-##The experiment was performed on a 2-thread Codespaces instance, so higher-thread scaling could not be evaluated directly. On machines with more cores, near-linear scaling is expected until memory bandwidth becomes the dominant bottleneck.
+The experiment was performed on a 2-thread Codespaces instance, so higher-thread scaling could not be evaluated directly. On machines with more cores, near-linear scaling is expected until memory bandwidth becomes the dominant bottleneck.
 ---
+
 
 ## 1. Environment Setup
 
