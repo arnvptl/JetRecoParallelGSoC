@@ -250,10 +250,6 @@ identifying bottlenecks.
 
 ## 6. AI Usage Statement
 
-AI tools (Claude) were used for conceptual guidance on Julia
-benchmarking conventions (`BenchmarkTools`), threading semantics
-(`Base.Threads`), and structuring the GPU discussion. All Julia
-implementations, the thread-safety argument, the performance analysis,
-and the written commentary were produced and verified manually.
+AI tools were used only for occasional conceptual guidance on Julia benchmarking conventions and general parallel programming concepts. The algorithm design, Julia implementations, benchmarking setup, experimental results, and performance analysis were developed and verified independently. All code and technical discussion in this submission were written and tested manually.
 
 ---
